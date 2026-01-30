@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "created": "2026-01-30T19:03:59+00:00",
+  "prompt": "A simple CLI calculator in Python that supports add, subtract, multiply, divide",
+  "org": "ChurchBiscuit-Inc",
+  "status": "bootstrapped",
+  "agents": [],
+  "github_repo": null
+}
